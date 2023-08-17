@@ -1,0 +1,8 @@
+*/.idea
+.idea
+*/node_modules
+/uploads/*
+/node_modules/
+*.iml
+package-lock.json
+/config/email.json
